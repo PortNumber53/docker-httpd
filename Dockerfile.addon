@@ -1,0 +1,3 @@
+EXPOSE 80
+
+RUN adduser -D -u 1000 -s /sbin/nologin grimlock
